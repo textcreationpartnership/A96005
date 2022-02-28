@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Royal Highness the Duke of Savoy's proclamation on behalf of the Vaudois</title>
+            <author>Savoy (Duchy). Sovereign (1675-1730 : Victor Amadeus II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96005</idno>
+            <idno type="STC">Wing V664B</idno>
+            <idno type="STC">ESTC R186059</idno>
+            <idno type="EEBO-CITATION">45504553</idno>
+            <idno type="OCLC">ocm 45504553</idno>
+            <idno type="VID">171866</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96005)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171866)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2594:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Royal Highness the Duke of Savoy's proclamation on behalf of the Vaudois</title>
+                  <author>Savoy (Duchy). Sovereign (1675-1730 : Victor Amadeus II)</author>
+                  <author>Victor Amadeus I, King of Sardinia, 1666-1732.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: cropped, with loss of text.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waldenses --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:171866:1" rendition="simple:additions"/>
+            <head>HIS ROYAL HIGHNE<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>S The Duke of SAVOY's Proclamation On BEHALF of the <hi>VA<g ref="char:V">Ʋ</g>DOIS.</hi>
+            </head>
+            <opener>
+               <signed>
+                  <hi>VICTOR AMEDAEUS</hi> II. <hi>By the Grace of God Duke of</hi> Savoy, <hi>Prince of</hi> Piedmont, <hi>King of</hi> Cyprus, <hi>&amp;c.</hi>
+               </signed>
+            </opener>
+            <div type="part">
+               <p>WHEREAS we have been obli<g ref="char:EOLhyphen"/>ged by the reiterated and preſ<g ref="char:EOLhyphen"/>ſing Inſtances of a Foreign Force overpowering us, to iſſue forth the Edicts of the 31ſt. of <hi>January,</hi> and 9th. of <hi>April,</hi> 1686. againſt our faithful Subjects the Proteſtants of the Valleys of <hi>Lucerne, Pe<g ref="char:EOLhyphen"/>rouſe, St. Martin,</hi> and the Neighbouring Places, viz. <hi>Praruſtino, St. Bartholomew,</hi> and <hi>Roche-Platte.</hi> And whereas we have been invited to receive them into our Favour, by the manifeſt Proofs of Fidelity, and Authentick Marks of Zeal for our Service, which theſe our Proteſtant Subjects have given, and continue to give us: As alſo in conſideration of the Inſtances of his Ma<g ref="char:EOLhyphen"/>jeſty the King of <hi>Great Britain,</hi> and of their High and Mightineſſes the States-General of the United Provinces in the <hi>Low-Countries;</hi> by theſe Motives we have thought fit not to defer any longer to make it appear, That they are altogether reſtor'd to our Favour, that they may be the more exci<g ref="char:EOLhyphen"/>ted to make themſelves worthy of it. And by theſe Preſents, which we will to have the Force of an Edict, from our certain Knowledge, full Power, Abſolute Authority, and by the Advice of our Council, Repealing and Diſannulling, as we Repeal and Diſannul the ſaid Edicts of the 31ſt. of <hi>January,</hi> and 9th. of <hi>April,</hi> 1686. and their Ratifications: As alſo all other Declarations of Puniſhment, Sentences, Ordinances, and all other Acts and Orders iſſued forth in execution of the ſaid Edicts againſt the forementioned Pro<g ref="char:EOLhyphen"/>teſtants, in ſuch a manner as that they ſhall re<g ref="char:EOLhyphen"/>main for the future of no Force, nor Effect, as though they were never iſſued forth. And like<g ref="char:EOLhyphen"/>wiſe we give a full Releaſe and intire Remiſſion, Abſolution, and Abolition, as far as it is or may be neceſſary, of all the Infractions to the ſaid Edicts, and of all other Exceſſes of what na<g ref="char:EOLhyphen"/>ture and quality, and how enormous ſoever they may be, that might be aſcribed to the ſaid Pro<g ref="char:EOLhyphen"/>teſtants, and that ſhould require a particular and individual Mention; as alſo of all the Puniſh<g ref="char:EOLhyphen"/>ments declared againſt and incurr'd by them both in general, and by private perſons. We re<g ref="char:EOLhyphen"/>ſtore the ſaid Proteſtants, and all thoſe that have either abetted, adviſed, or favoured them, in their former Honours and our Favour, as they were before the Infractions to the ſaid Edicts; Ordaining, That all thoſe of our Proteſtant Subjects who may be yet detained Priſoners, and all their Children of what Sex, Age, and in what Place ſoever of our Dominions they may yet be detained, ſhall immediately be releaſed, without paying any Fees, and left at full liberty to return with their Parents into the ſaid Valleys, and there profeſs their Religion, without being mo<g ref="char:EOLhyphen"/>leſted or taken notice of, as well they as any body elſe, for the ſake of any Act of their Religion, or Abjuration they themſelves or their Fathers may have made, as being extorted from them by Violence. Forbidding for this purpoſe, to bring any hindrance or difficulty, by concealing them, or in any other manner whatſoever, to their re<g ref="char:EOLhyphen"/>turning into the ſaid Valleys, and much leſs to offer them the leaſt Violence; which is likewiſe forbidden to the ſaid Proteſtants againſt the Ca<g ref="char:EOLhyphen"/>tholicks, who ſhall be willing to remain in theſe our ſaid Dominions, and to continue to exerciſe the Catholick Religion. And we will that our Governors and Judges of Places be bound to ſee the foremention'd things perform'd; and that the ſaid Proteſtants of both Sexes be no ways forced nor hindred to uſe in this their free will, and be at full Liberty to return into the ſaid Valleys. Moreover, we reſtore the ſaid Prote<g ref="char:EOLhyphen"/>ſtants to, and will that they be maintained with their Children and Poſterity in the Poſſeſſion of all and every one of their Ancient Rights, Edicts, Cuſtoms, Uſes, and Privileges, as well in reſpect of their Abode, Trade, Commerce, of the Ex<g ref="char:EOLhyphen"/>erciſe of the Religion they profeſs, as of any other thing, none excepted, even as they were before the ſaid Edicts: Reeſtabliſhing and Reſto<g ref="char:EOLhyphen"/>ring the Proteſtants in the quiet and peaceable Poſſeſſion and Enjoyment of all their Goods; Lands, Houſes, Hereditaments, Titles, Debts, Actions, and all other things, which ſhall yet be found in being and Nature, and of which it may be made out by any ſort of proof, That they have belonged to them immediately before the ſaid Edicts; commanding all thoſe that may be poſſeſſed, by any Title whatſoever, of the Goods and Effects which have formerly belonged to the Proteſtants before the ſaid Edicts, That in obe<g ref="char:EOLhyphen"/>dience to this, they reſtore and deliver them to their free and peaceable enjoyment, without vexing or moleſting them in any manner, either at this preſent or for the future, under what pre<g ref="char:EOLhyphen"/>tence ſoever it may be. Forbidding them and all our Subjects their Adherents, now and for the time to come, on account of the foremen<g ref="char:EOLhyphen"/>tion'd Infractions, their Conſequences and De<g ref="char:EOLhyphen"/>pendencies, by the Magiſtrates, Judges, Offici<g ref="char:EOLhyphen"/>als, Fiſcals, or any other that may be thought fit, to offer them any further Moleſtation either Real or Perſonal, in ſuch a manner as they may never be troubled, either in general or in particu<g ref="char:EOLhyphen"/>lar, nor diſturbed by any means whatſoever, ei<g ref="char:EOLhyphen"/>ther in their Perſons or Goods, by reaſon of the foreſaid Infractions or Abjuration they may have made, as having been violently ex<g ref="char:EOLhyphen"/>torted from them, as aforeſaid. And there<g ref="char:EOLhyphen"/>fore following the Example formerly pra<g ref="char:EOLhyphen"/>cticed by our Anceſtors in the like caſes, we enjoyn a perpetual and final ſilence to our Fiſcals, or any other that may be neceſſary; Declaring null and void from henceforth whatever may en<g ref="char:EOLhyphen"/>ſue to the contrary, promiſing our Protection to all thoſe who ſhall be Moleſted or Diſturbed not<g ref="char:EOLhyphen"/>withſtanding this our Declaration: And beſides, giving leave to every Perſon Born in the ſaid Re<g ref="char:EOLhyphen"/>ligion, and making Profeſſion of it, freely to go
+<pb facs="tcp:171866:2"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:171866:3"/>in order <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> themſelves in the ſaid Valleys, but firſt taking; at the hands of our great Chan<g ref="char:EOLhyphen"/>cellor, the due and uſual Oath of Allegiance, <hi>viz.</hi> That they ſhall be and live Good, Faithful, and Obedient Subjects to us and to our Succeſſors to the Crown, during their Abode in the ſaid Val<g ref="char:EOLhyphen"/>leys; wherein they may poſſeſs Lands within the preſcribed Limits, and there enjoy the ſame Pri<g ref="char:EOLhyphen"/>vileges and Prerogatives, none excepted, which are or may be enjoyed by the Proteſtants, na<g ref="char:EOLhyphen"/>tural Inhabitants of the Countrey, except the <hi>French</hi> in regard to whom this Conceſſion ſhall terminate Ten years after the [Future] Peace. Declaring beſides, That thoſe of the Valleys of <hi>Pragela</hi> and <hi>Perouſe,</hi> who ſhall have occaſion to come and ſettle themſelves in thoſe of <hi>Lucerne,</hi> and other Dependencies of our Dominions within the Limits mentioned in this preſent Edict, for the ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke of any Inheritance, Subſtitution or Mar<g ref="char:EOLhyphen"/>riage, ſhall have power to do it at any time, provided they come to ſettle themſelves entirely there, leaving their Abode in the ſaid Valleys of <hi>Pragela</hi> and <hi>Perouſe;</hi> and we will alſo that our Proteſtant Subjects, that may ſettle themſelves in the ſaid Valleys, ſhall not have Power to Mo<g ref="char:EOLhyphen"/>leſt by any means the Catholicks Inhabiting the ſame, under any pretence whatſoever; allowing however all the Proteſtant Inhabitants of our ſaid Valleys, to Buy and Acquire, without Vio<g ref="char:EOLhyphen"/>lence, and Freely, all the moveable and un<g ref="char:EOLhyphen"/>moveable Goods, that are contained within the Bounds of our ſaid Valleys, in what hands ſo<g ref="char:EOLhyphen"/>ever they may be. And therefore we Enjoyn, and Command all our Magiſtrates, Miniſters, and Officers, and all others whom it may con<g ref="char:EOLhyphen"/>cern, to obſerve theſe Preſents, and cauſe them to be ſtrictly obſerved: And to our Senate and Chamber of <hi>Piemont,</hi> to ratifie and approve them in all things and as far as may be requiſite, without any difficulty or contradiction. And we will that they be Publiſhed in the uſual Form in the ſeveral and reſpective Places of our ſaid Valleys, and whereever it ſhall be neceſſary; and that the ſame Credit be given to a Copy Printed by our Printer <hi>Valetta,</hi> as to the Original it ſelf; for ſuch is our Pleaſure.</p>
+               <closer>
+                  <dateline>Given at <hi>Turin;</hi> 
+                     <date>the 23<hi>d.</hi> of <hi>May,</hi> 1694.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>V. <hi>Amedeo,</hi>
+                        </item>
+                        <item>V. <hi>Bellegarde</hi>
+                        </item>
+                     </list>
+                  </signed>
+Reg. Gallinati. De <hi>S. Thomas.</hi>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The Chamber of Accompts of his Royal Highneſs.</head>
+               <p>LET it be known to every one, That we have ſeen the abovewritten Edict, Confirm<g ref="char:EOLhyphen"/>ed under the hand of his Royal Highneſs, iſſued forth in due Form, Sealed and Subſcribed <hi>De S. Thomas,</hi> given in this City the 23d. of the preſent Month: And having heard the Conclu<g ref="char:EOLhyphen"/>ſions of the Seignior Count <hi>Peter Frances Fri<g ref="char:EOLhyphen"/>chignono de Caſtelengo,</hi> Councellor, Senator, and Advocate-General of his ſaid Royal Highneſs, to whom it has been communicated; and ha<g ref="char:EOLhyphen"/>ving conſidered the Tenure of it (as far as it concerns and belongs to this Court): We have ratified, admitted, and approved, and by theſe Preſents, ratifie, admit, and approve that Edict, with the following Declarations, as to what con<g ref="char:EOLhyphen"/>cerns the Limits mentioned in the ſame Edict, underſtanding the ſame, which are expreſſed and preſcribed in the laſt Edicts, and declared to be the ſaid Bounds: provided that the Perſons and Goods of the preſent Inhabitants, and of all others that ſhall take for the future their Abode in the Valleys, and Places mentioned in the ſaid Edict, and in the meaning of the ſame, be re<g ref="char:EOLhyphen"/>ſpectively obliged to all the Charges, Gabels, and Impoſitions, as they were bound and obli<g ref="char:EOLhyphen"/>ged to his Royal Highneſs, and his Princely Suc<g ref="char:EOLhyphen"/>ceſſors, before the Edicts of the 31ſt. of <hi>January,</hi> and 9th. of <hi>April,</hi> 1686. and as other Subjects are, and remain obliged: And as to the reſt, ac<g ref="char:EOLhyphen"/>cording to it's Form, Meaning, and Tenure, enjoyning that it be Regiſtred in our Records, that recourſe may be had to it upon occaſion: In confirmation of which, we have granted theſe Preſents.</p>
+               <closer>
+                  <dateline>
+                     <hi>Given at</hi> Turin, <date>the 25th. <hi>of</hi> May, 1694.</date>
+                  </dateline>
+                  <signed>By the ſaid Moſt Excellent Chamber, <hi>Aymo.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The Senate of his Royal Highneſs Sitting at <hi>Turin.</hi>
+               </head>
+               <p>LET it be known to evey one, That we have ſeen and read the above-written Order of his Royal Highneſs, given at <hi>Turin</hi> the 23d. of this preſent <hi>May,</hi> Conſirmed, duly iſſued forth, and Sealed by his Royal Highneſs, and Subſcri<g ref="char:EOLhyphen"/>bed <hi>de S. Thomas:</hi> And that having conſidered the Tenure of it, and the Concluſions of the Seignior Count <hi>Peter Frances Frichignono,</hi> Councellor, Se<g ref="char:EOLhyphen"/>nator, and Advocate-General of his ſaid Royal Highneſs, to whom it has been Communi<g ref="char:EOLhyphen"/>cated; inaſmuch as it concerns and belongs to this Sovereign Court, we have admitted, ap<g ref="char:EOLhyphen"/>proved, and ratified, as by theſe preſents we ad<g ref="char:EOLhyphen"/>mit, approve, and ratifie it: And withal De<g ref="char:EOLhyphen"/>clare, That the Reſtoration of the <hi>Vaudois,</hi> or others of the Reformed Religion, of which mention is made in the preſent Edict, is to be underſtood to comprehend only and merely the Goods, Debts, and Actions of which they have been deprived on that occaſion, and in conſe<g ref="char:EOLhyphen"/>quence of the Edicts that were iſſued forth the 31ſt of <hi>January,</hi> and 9th of <hi>April,</hi> 1686. And that from them are excepted the Debts, or Acti<g ref="char:EOLhyphen"/>ons of any Perſons whatever, upon the Goods and Perſons of the ſame People, before the ſaid Edicts. We likewiſe declare, That as to the Goods that were then bought, in which the ſaid Proteſtants are Re-eſtabliſhed, by the diſpoſition o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the preſent Edict, that the right is preſerved to the Buyer to demand the price which he has paid for it to the Receiver of his Royal Highneſs, as far as it ſhall belong to him; which may by no means reflect either directly or indirectly upon the Proteſtant or their Goods: ſince 'tis underſtood that they are only reſtored and reeſtabliſhed into that ſtate in which they were before the ſaid Edicts. And as to the reſt let it be in all things according to the Form, Meaning, and Tenure of the preſen<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Edict, enjoining every one whom it may concern to cauſe the preſent Edict to be obſerved, as we Record it by theſe preſents in our Regiſters.</p>
+               <closer>
+                  <dateline>Gi<g ref="char:EOLhyphen"/>ven at <hi>Turin</hi> 
+                     <date>the 25<hi>th.</hi> of <hi>May,</hi> 1694.</date>
+                  </dateline>
+                  <signed>By the moſt Exccellent Senate,
+<hi>Dalmazzo.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <byline>Tranſlated from the <hi>Italian</hi> Copy, printed at <hi>Tu<g ref="char:EOLhyphen"/>rin</hi> by <hi>Antony Valetta,</hi> Printer to his Royal Highneſs and the moſt Excellent Chamber.</byline>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Oxford-Arms</hi> in <hi>Warwick Lane.</hi> 1694.</p>
+            <pb facs="tcp:171866:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
